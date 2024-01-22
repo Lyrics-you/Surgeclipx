@@ -1,0 +1,22 @@
+# NAME: PodCasts
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Podcasts.list
+# UPDATED: 2024-01-22
+
+# > Overcast
+USER-AGENT, Overcast*
+DOMAIN-SUFFIX, overcast.fm
+DOMAIN-KEYWORD, overcast
+
+# > Castro
+USER-AGENT, Castro*
+DOMAIN-SUFFIX, tentacles.supertop.co
+DOMAIN-KEYWORD, tentacles
+
+# > Pocket Casts
+USER-AGENT, Pocket Casts*
+DOMAIN-SUFFIX, pocketcasts.com
+DOMAIN-KEYWORD, pocketcasts
+
+# > acast
+DOMAIN-SUFFIX, acast.com

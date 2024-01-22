@@ -1,0 +1,20 @@
+# NAME: Proxy
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Proxy.list
+# UPDATED: 2024-01-22
+
+DOMAIN-KEYWORD, dogess
+DOMAIN-KEYWORD, cylink
+DOMAIN-KEYWORD, kcssr
+DOMAIN-KEYWORD, stc-clubs
+DOMAIN-KEYWORD, tsubakitokanako
+DOMAIN-SUFFIX, api.crisp.chat
+DOMAIN-SUFFIX, app.crisp.im
+DOMAIN-SUFFIX, app.relay.crisp.chat
+DOMAIN-SUFFIX, crisp.chat
+DOMAIN-SUFFIX, client.crisp.chat
+DOMAIN-SUFFIX, client.relay.crisp.chat
+DOMAIN-SUFFIX, image.crisp.chat
+DOMAIN-SUFFIX, plugins.crisp.chat
+DOMAIN-SUFFIX, storage.crisp.chat
+DOMAIN-SUFFIX, world.crisp.help
