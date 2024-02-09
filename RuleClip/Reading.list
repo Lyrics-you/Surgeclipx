@@ -1,0 +1,16 @@
+# NAME: Reading
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Reading.list
+# UPDATED: 2024-02-09
+
+# > feedly
+DOMAIN-SUFFIX, feedly.com
+DOMAIN-KEYWORD, feedly
+
+# > inoreader
+DOMAIN-SUFFIX, inoreader.com
+DOMAIN-KEYWORD, inoreader
+
+# > v2ex
+DOMAIN-SUFFIX, v2ex.com
+DOMAIN-KEYWORD, v2ex
