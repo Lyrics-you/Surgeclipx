@@ -3,6 +3,9 @@
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Reading.list
 # UPDATED: 2024-02-09
 
+# > contain feed
+DOMAIN-KEYWORD, feed
+
 # > feedly
 DOMAIN-SUFFIX, feedly.com
 DOMAIN-KEYWORD, feedly
