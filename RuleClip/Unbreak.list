@@ -1,0 +1,10 @@
+# NAME: Direct
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Unbreak.list
+# UPDATED: 2024-02-22
+
+# 脉脉
+DOMAIN-SUFFIX,taou.com
+DOMAIN-KEYWORD,taou
+DOMAIN-SUFFIX,maimai.com
+DOMAIN-KEYWORD,maimai
