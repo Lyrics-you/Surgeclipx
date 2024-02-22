@@ -1,7 +1,7 @@
-# NAME: Proxy
+# NAME: Direct
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Direct.list
-# UPDATED: 2024-01-22
+# UPDATED: 2024-02-22
 
 # 银行
 DOMAIN-SUFFIX,95599.cn
@@ -10,3 +10,7 @@ DOMAIN-SUFFIX,bscabank.com
 DOMAIN-SUFFIX,openaboc.cn
 DOMAIN-SUFFIX,openaboc.com
 DOMAIN-SUFFIX,openaboc.com.cn
+
+# 脉脉
+DOMAIN-SUFFIX,taou.com
+DOMAIN-KEYWORD,taou
