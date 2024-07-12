@@ -1,7 +1,7 @@
 # NAME: Reading
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Reading.list
-# UPDATED: 2024-02-09
+# UPDATED: 2024-07-12
 
 # > contain feed
 DOMAIN-KEYWORD, feed
@@ -17,3 +17,7 @@ DOMAIN-KEYWORD, inoreader
 # > v2ex
 DOMAIN-SUFFIX, v2ex.com
 DOMAIN-KEYWORD, v2ex
+
+# > NGA
+DOMAIN-SUFFIX, nga.cn
+DOMAIN-KEYWORD, nga
