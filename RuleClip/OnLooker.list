@@ -1,7 +1,7 @@
 # NAME: OnLooker
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/OnLooker.list
-# UPDATED: 2024-01-22
+# UPDATED: 2025-01-16
 
 # > 51cg1
 DOMAIN-SUFFIX, 51cg1.com
@@ -14,3 +14,7 @@ DOMAIN-KEYWORD, chigua2
 # > maomiav 
 DOMAIN-SUFFIX, maomiav.com
 DOMAIN-KEYWORD, maomiav
+
+# > missav
+DOMAIN-SUFFIX, missav
+DOMAIN-KEYWORD, missav
