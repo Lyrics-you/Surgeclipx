@@ -1,11 +1,7 @@
 # NAME: Emby
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Emby.list
-# UPDATED: 2024-09-14
-
-# > TreeDiagram
-DOMAIN-SUFFIX, 789.123456.al
-DOMAIN-KEYWORD, 123456
+# UPDATED: 2025-01-16
 
 # > Paul
 DOMAIN-SUFFIX, cf.imetyou.top
