@@ -16,5 +16,9 @@ DOMAIN-SUFFIX, maomiav.com
 DOMAIN-KEYWORD, maomiav
 
 # > missav
-DOMAIN-SUFFIX, missav
+DOMAIN-SUFFIX, missav.ai
 DOMAIN-KEYWORD, missav
+
+# > jable
+DOMAIN-SUFFIX, jable.tv
+DOMAIN-KEYWORD, jable
