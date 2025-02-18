@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,taou.com
 DOMAIN-KEYWORD,taou
 DOMAIN-SUFFIX,maimai.com
 DOMAIN-KEYWORD,maimai
+
+# 抖音
+DOMAIN-SUFFIX,video-cn.snssdk.com
+DOMAIn-KEYWORD,video-cn
