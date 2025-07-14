@@ -1,0 +1,25 @@
+# NAME: DomesticGame
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/DomesticGame.list
+# UPDATED: 2025-07-14
+
+# > battlenet
+DOMAIN-SUFFIX,battlenet.com,🥝Domestic
+DOMAIN-KEYWORD,battlenet,🥝Domestic
+DOMAIN-SUFFIX,netease.com,🥝Domestic
+DOMAIN-KEYWORD,netease,🥝Domestic
+
+# > mihoyo
+DOMAIN-SUFFIX,mihoyo.com,🥝Domestic
+DOMAIN-KEYWORD,mihoyo,🥝Domestic
+DOMAIN-SUFFIX,mhystatic.com,🥝Domestic
+DOMAIN-KEYWORD,mhystatic,🥝Domestic
+DOMAIN-KEYWORD,mhy,🥝Domestic
+
+# > kuro
+DOMAIN-SUFFIX,kurobbs.com,🥝Domestic
+DOMAIN-KEYWORD,kurobbs,🥝Domestic
+DOMAIN-SUFFIX,kurogame.com,🥝Domestic
+DOMAIN-SUFFIX,kurogame.xyz,🥝Domestic
+DOMAIN-SUFFIX,kurogame,🥝Domestic
+DOMAIN-KEYWORD,kuro,🥝Domestic

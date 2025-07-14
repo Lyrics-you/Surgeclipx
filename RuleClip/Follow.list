@@ -1,8 +1,12 @@
 # NAME: OnLooker
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Follow.list
-# UPDATED: 2024-10-24
+# UPDATED: 2025-07-14
 
 # > follow
 DOMAIN-SUFFIX, follow.is
 DOMAIN-KEYWORD, follow
+
+# > folo
+DOMAIN-SUFFIX, folo.is
+DOMAIN-KEYWORD, folo
