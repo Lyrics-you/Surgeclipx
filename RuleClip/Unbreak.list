@@ -1,7 +1,11 @@
 # NAME: Direct
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Unbreak.list
-# UPDATED: 2024-02-22
+# UPDATED: 2025-08-12
+
+# 自己
+DOMAIN-SUFFIX,truehappy.fun
+DOMAIN-KEYWORD,truehappy
 
 # 脉脉
 DOMAIN-SUFFIX,taou.com
