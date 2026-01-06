@@ -1,0 +1,17 @@
+# NAME: Direct
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/Airlines.list
+# UPDATED: 2026-01-06
+
+# > huacloud
+DOMAIN-SUFFIX, api-huacloud.net
+DOMAIN-KEYWORD, api-huacloud
+
+# > yingtao
+DOMAIN-SUFFIX, yingtaowangluo.net
+DOMAIN-KEYWORD, yingtaowangluo
+
+# > ouo
+DOMAIN-SUFFIX, cauenvao.click
+DOMAIN-KEYWORD, cauenvao
+DOMAIN-KEYWORD, oss
