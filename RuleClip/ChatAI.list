@@ -7,6 +7,10 @@
 DOMAIN-SUFFIX, openai.com
 DOMAIN-KEYWORD, openai
 
+# > opencode
+DOMAIN-SUFFIX, opencode.ai
+DOMAIN-KEYWORD, opencode
+
 # > new bing
 DOMAIN-SUFFIX, bing.com
 DOMAIN-KEYWORD, bing
