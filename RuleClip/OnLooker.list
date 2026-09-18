@@ -1,7 +1,7 @@
 # NAME: OnLooker
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/OnLooker.list
-# UPDATED: 2025-01-16
+# UPDATED: 2026-09-18
 
 # > 51cg1
 DOMAIN-SUFFIX, 51cg1.com
@@ -22,3 +22,12 @@ DOMAIN-KEYWORD, missav
 # > jable
 DOMAIN-SUFFIX, jable.tv
 DOMAIN-KEYWORD, jable
+
+# > hsex
+DOMAIN-SUFFIX, hsex.icu
+DOMAIN-KEYWORD, hsex
+
+# > porntube
+DOMAIN-SUFFIX, porntube.cool
+DOMAIN-KEYWORD, porntube
+DOMAIN-KEYWORD, porn
