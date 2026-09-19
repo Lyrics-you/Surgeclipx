@@ -1,7 +1,7 @@
 # NAME: ChatAI
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Surgeclipx/main/RuleClip/ChatAI.list
-# UPDATED: 2024-01-30   
+# UPDATED: 2026-09-20   
 
 # > openai chatGPT
 DOMAIN-SUFFIX, openai.com
@@ -18,3 +18,10 @@ DOMAIN-KEYWORD, bing
 # > theb.ai
 DOMAIN-SUFFIX, theb.ai
 DOMAIN-KEYWORD, theb
+
+# > workbuddy.ai
+# > codebuddy
+DOMAIN-SUFFIX, www.codebuddy.ai
+DOMAIN-KEYWORD, codebuddy
+DOMAIN-SUFFIX, www.workbuddy.ai
+DOMAIN-KEYWORD, workbuddy
